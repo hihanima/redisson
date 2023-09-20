@@ -9,7 +9,7 @@ Based on high-performance async and lock-free Java Redis client and [Netty](http
 Supported JDK:   1.8 ... 20 and Android  
 Supported Redis: 3.0 ... 7.2  
 
-## Featuresf
+## Features
 
 * Thread-safe implementation  
 * Supports [Redis Replicated](https://github.com/redisson/redisson/wiki/2.-Configuration/#25-replicated-mode), [Redis Cluster](https://github.com/redisson/redisson/wiki/2.-Configuration/#24-cluster-mode), [Redis Sentinel](https://github.com/redisson/redisson/wiki/2.-Configuration/#27-sentinel-mode), [Redis Master and Slaves](https://github.com/redisson/redisson/wiki/2.-Configuration/#28-master-slave-mode), [Redis Single](https://github.com/redisson/redisson/wiki/2.-Configuration/#26-single-instance-mode), [Redis proxy](https://github.com/redisson/redisson/wiki/2.-Configuration/#29-proxy-mode), [Redis multi-cluster](https://github.com/redisson/redisson/wiki/2.-Configuration/#210-multi-cluster-mode) setup
